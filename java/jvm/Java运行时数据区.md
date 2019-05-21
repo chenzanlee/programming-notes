@@ -1,4 +1,4 @@
-原文链接：https://docs.oracle.com/javase/specs/jvms/se8/html/jvms-2.html
+本文翻译自[Java虚拟机规范](https://docs.oracle.com/javase/specs/jvms/se8/html/jvms-2.html)
 ## 运行时数据区 ##
 
 <div align="center"><img src="images/runtime_data_area.jpg"></div>
